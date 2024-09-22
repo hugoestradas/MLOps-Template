@@ -12,3 +12,6 @@ It provides a foundation for implementing MLOps best practices and principles th
 ### docs
 ### invoke.yaml
 ### notebooks
+### outputs
+### poetry.toml
+### pyproject.toml
