@@ -29,3 +29,19 @@ It provides a foundation for implementing MLOps best practices and principles th
 #### __main__.py
 #### scripts.py
 
+## Development Workflow Tasks
+### __init__.py
+### checks.py
+### cleans.py
+### commits.py
+### containers.py
+### docs.py
+### formats.py
+### mlflow.py
+### packages.py
+### projects.py
+
+## Automated Testing
+### coftest.py
+### test_scripts.py
+### {{cookecutter.repository}}.code
