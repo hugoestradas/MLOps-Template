@@ -24,4 +24,8 @@ It provides a foundation for implementing MLOps best practices and principles th
 ## Pre-commit Hooks
 ### .pre-commit-config. yaml
 ### src
-#### dd
+#### {{cookiecutter.package}}
+#### __init__.py
+#### __main__.py
+#### scripts.py
+
