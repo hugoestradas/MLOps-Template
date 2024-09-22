@@ -20,3 +20,7 @@ It provides a foundation for implementing MLOps best practices and principles th
 ## Python Packaging
 ### poetry.toml
 ### pyproject.toml
+
+## Pre-commit Hooks
+### .pre-commit-config. yaml
+### src
