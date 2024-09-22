@@ -7,3 +7,7 @@ It provides a foundation for implementing MLOps best practices and principles th
 ### MLPROJECT
 ### README.md
 ### confs
+### data
+### docker-compose.yml
+### docs
+### invoke.yaml
