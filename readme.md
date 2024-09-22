@@ -11,3 +11,4 @@ It provides a foundation for implementing MLOps best practices and principles th
 ### docker-compose.yml
 ### docs
 ### invoke.yaml
+### notebooks
